@@ -138,7 +138,7 @@ def cetakStruk():
         print("===== TOTAL =====")
         print("Total pembayaran :", harga_satuan)
         print("")
-
+        
 
 menu()
 transaksi()
